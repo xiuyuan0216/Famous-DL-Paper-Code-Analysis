@@ -17,3 +17,5 @@ UNet: https://github.com/milesial/Pytorch-UNet
 PointNet: https://github.com/fxia22/pointnet.pytorch
 
 PointNet++: https://github.com/yanx27/Pointnet_Pointnet2_pytorch
+
+VAE: https://github.com/AntixK/PyTorch-VAE
