@@ -19,3 +19,5 @@ PointNet: https://github.com/fxia22/pointnet.pytorch
 PointNet++: https://github.com/yanx27/Pointnet_Pointnet2_pytorch
 
 VAE: https://github.com/AntixK/PyTorch-VAE
+
+DQN: https://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html
