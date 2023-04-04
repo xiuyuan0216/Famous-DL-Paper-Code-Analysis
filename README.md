@@ -13,3 +13,5 @@ Transformer: https://github.com/hyunwoongko/transformer
 ViT: https://github.com/lucidrains/vit-pytorch
 
 UNet: https://github.com/milesial/Pytorch-UNet
+
+PointNet: https://github.com/fxia22/pointnet.pytorch
